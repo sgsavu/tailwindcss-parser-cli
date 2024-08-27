@@ -1,4 +1,4 @@
-module tailwindcssparser
+module tailwindcss-parser-cli
 
 go 1.22.5
 
