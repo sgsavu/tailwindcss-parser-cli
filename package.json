@@ -1,0 +1,7 @@
+{
+  "name": "tailwindcss-parser",
+  "version": "0.1.0",
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
+  }
+}
